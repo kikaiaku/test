@@ -1,1 +1,28 @@
-.
+
+.bio{
+    color: white;
+    
+    font-weight: bold;
+}
+.name{
+    font-weight: bold;
+    color: white;
+}
+.para-o
+{
+    color: red;
+}
+.para{
+    color: red;
+}
+.info{
+    font-weight: bold;
+    color: white;
+    
+}
+body{
+    background-color: black;
+}
+.info-o{
+    color: white;
+}
